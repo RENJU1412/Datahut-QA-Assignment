@@ -5,6 +5,6 @@ https://drive.google.com/file/d/1E39FEKCoGU0xZgedZcyTcabc7S8QsMIR/view?usp=shari
 ### Data quality issues
 https://docs.google.com/spreadsheets/d/17cXaaARXCUusuyd5lbDhAx9eH3APuhw-/edit?usp=drive_link&ouid=111899621745338385249&rtpof=true&sd=true
 ### Documentation
-https://docs.google.com/document/d/1-tBzlJLfrvF9FvfF1Av7qesOvn-dVbh3/edit?usp=drive_link&ouid=111899621745338385249&rtpof=true&sd=true
-### Cleaned Data
+https://drive.google.com/file/d/1l_AEuA45Z_fhtAXlVjcEiJ2gftU-8pSy/view?usp=sharing
+### Cleaned Data Set
 https://drive.google.com/file/d/1OgKXyf-pzQG6ts2Z3fhhObf82LWLq6Yl/view?usp=drive_link
